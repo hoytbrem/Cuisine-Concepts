@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cuisine-Concepts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b008ea9fc133f1d97ca9ec1cb04144d1803bd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7e15ff3a5fb543461ae4667700312116d2d8f4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cuisine-Concepts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cuisine-Concepts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
